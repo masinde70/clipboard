@@ -581,6 +581,14 @@ h5 {
   display: flex;
 }
 
+.h-16 {
+  height: 4rem;
+}
+
+.w-16 {
+  width: 4rem;
+}
+
 .max-w-md {
   max-width: 28rem;
 }
